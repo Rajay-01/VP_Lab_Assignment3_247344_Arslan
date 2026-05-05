@@ -17,3 +17,6 @@
     background-color: var(--yellow);
     border: none;
 }
+.testimonial {
+    background: linear-gradient(to right, #f5b942, #fcd36a);
+}
