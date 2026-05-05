@@ -38,3 +38,11 @@
 .cta-banner {
   background: linear-gradient(90deg, #3b3be0, #6a5cff);
 }
+.blog {
+  background: #f5f7fb;
+}
+
+.blog .card img {
+  height: 180px;
+  object-fit: cover;
+}
