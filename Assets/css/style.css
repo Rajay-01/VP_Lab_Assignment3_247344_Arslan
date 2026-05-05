@@ -11,3 +11,9 @@
         background: #f8f9fc;
         }
         .hero h1 {
+                font-size: 48px;
+                }
+.btn-warning {
+    background-color: var(--yellow);
+    border: none;
+}
