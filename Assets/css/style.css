@@ -23,3 +23,15 @@
 .feature-box {
     background: white;
 }
+.cta-box {
+  height: 100%;
+}
+
+.yellow-box {
+  background: #f5b942;
+  color: #000;
+}
+
+.white-box {
+  background: #fff;
+}
