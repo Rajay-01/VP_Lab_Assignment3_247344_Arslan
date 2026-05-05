@@ -46,3 +46,75 @@
   height: 180px;
   object-fit: cover;
 }
+.logos img {
+  max-height: 40px;
+  object-fit: contain;
+  transition: 0.3s;
+}
+
+.logos img:hover {
+  opacity: 1 !important;
+  transform: scale(1.05);
+}
+.about {
+  background: #f8f9fa;
+}
+
+.about h3 {
+  font-size: 32px;
+  color: #111;
+}
+
+.about p {
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.about img {
+  max-width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+}
+
+.about .btn {
+  padding: 10px 25px;
+}
+footer {
+  background: #111 !important;
+}
+
+footer h5,
+footer h6 {
+  color: #fff;
+}
+
+footer p {
+  color: #bbb;
+}
+
+footer ul li {
+  margin-bottom: 8px;
+}
+
+footer ul li a {
+  color: #aaa;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+footer ul li a:hover {
+  color: #fff;
+  padding-left: 5px;
+}
+
+footer hr {
+  opacity: 0.2;
+}
+
+footer .text-muted {
+  color: #888 !important;
+}
+footer ul li a:hover {
+  color: #ffc107;
+  transition: 0.3s;
+}
