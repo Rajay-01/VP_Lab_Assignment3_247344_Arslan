@@ -35,3 +35,6 @@
 .white-box {
   background: #fff;
 }
+.cta-banner {
+  background: linear-gradient(90deg, #3b3be0, #6a5cff);
+}
